@@ -225,7 +225,7 @@ On the Left Sidebar, navigate to the *notebooks* directory you just created.
 
 Open the *00_setup_check.ipynb* notebook and run the cells to check that you have the necessary libraries installed.
 
-![]({{ site.baseurl }}/assets/00_package_check_output.png){alt='Screenshot of the Jupyter Notebook with list of library versions and no error messages.'}
+<!--![]({{ site.baseurl }}/assets/00_package_check_output.png){alt='Screenshot of the Jupyter Notebook with list of library versions and no error messages.'}/-->S
 
 ## Closing JupyterLab
 
